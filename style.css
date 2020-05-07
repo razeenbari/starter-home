@@ -1,0 +1,211 @@
+.topbar ol{  
+    display: inline-block;
+}
+.facebook,
+    .instagram,
+    .twitter,
+    .youtube
+     {
+        width: 16px;
+        height: 16px;
+        margin: 10px;
+    }
+    .whatsapp{
+        width:25px;
+        height: 25px;
+
+    }
+    
+.saylani{ 
+    width: 200px;
+ }
+ #blue {
+    background-color: royalblue;
+    border-radius: 200px;
+    width: 5em;
+    height: 2em;
+    ;
+    color: white;
+    font-weight: 100;
+    padding-bottom: 0.3em;
+}
+
+.white {
+    border: none !important;
+    background-color: white ;
+    color: black 
+}
+.white:hover{ 
+    background-color:royalblue  ;
+    border-radius: 200px;
+    width: 5em;
+    height: 2em;
+    color: white;
+    font-weight: 100;
+    padding: 5px;
+    padding-bottom: 0.3em;
+ }
+.pic{ 
+    width: 900px;
+ }
+
+ @media only screen and ( max-width:600px){ 
+    .pic{ 
+        width:500px 
+       }
+}
+
+@media only screen and ( max-width:400px){ 
+        .pic{ 
+            width:300px 
+           }
+}
+@media only screen and ( max-width:300px){ 
+            .pic{ 
+                width:300px 
+               }
+}
+.ROplant{
+    widows:1200px;
+}
+.green{ 
+    color: lime;
+}
+.intro{
+    color: royalblue;
+    text-align: center;
+    font-family: serif;
+}
+
+.logo{
+    width: 3.5em;
+    height: 3.5em;
+
+}
+.text{ 
+    color: grey;
+    text-align: justify;
+    padding: 50px;
+ }
+ .food2{
+    width: 50px;
+    height: 50px;
+    
+   }
+   .col-md-3{ 
+       font-family: cursive;
+    }
+    .number{ 
+         padding-top: 20px;
+         font-size: xx-large;
+     }
+     .ONLINE{ 
+         padding: 30px;
+      }
+      .box{ 
+          box-shadow: 2px 2px 2px 4px slategray;
+          border: 1px solid gray;
+       }
+       .DASTAR{ 
+           padding: 10px;
+           padding-top: 30px;
+       }
+        .saparator{ 
+            width: 70px;
+            height:3px;
+            background-color: green;
+            display: block;
+            margin-left: 22px;
+         }
+         .saparator2{ 
+            width: 70px;
+            height:3px;
+            background-color: green;
+            display: block;
+            }
+        .I{
+            border: 1px solid grey;
+            background-color: rgb(203, 207, 209);
+        }
+        .upcoming marquee{
+            height: 200px;
+        }
+        .rashan1 {
+            padding: 50px;
+            transition: transform .2s;
+            width: 300px;
+            height: 300px;
+            margin-left:-20px;}
+            .rashan1:hover {
+                -ms-transform: scale(1.5); /* IE 9 */
+                -webkit-transform: scale(1.5); /* Safari 3-8 */
+                transform: scale(1.5); 
+              }
+            .kitchen{ 
+            padding: 50px;
+            transition: transform .2s;
+            width: 300px;
+            height: 300px;
+            margin:-20px;
+            }
+            .kitchen:hover{ 
+                -ms-transform: scale(1.5); /* IE 9 */
+                -webkit-transform: scale(1.5); /* Safari 3-8 */
+                transform: scale(1.5); 
+            }
+            .qari{
+                padding: 50px;
+            transition: transform .2s;
+            width: 300px;
+            height: 300px;
+            margin: -20px;
+            }
+            .qari:hover{
+                -ms-transform: scale(1.5); /* IE 9 */
+                -webkit-transform: scale(1.5); /* Safari 3-8 */
+                transform: scale(1.5); 
+            }
+                .iftari{
+                    padding: 50px;
+                transition: transform .2s;
+                width: 300px;
+                height: 300px;
+                margin: -20px;
+                }
+                .iftari:hover{
+                    -ms-transform: scale(1.5); /* IE 9 */
+                    -webkit-transform: scale(1.5); /* Safari 3-8 */
+                    transform: scale(1.5); 
+                }  
+                .saparator1{ 
+                    width: 50px;
+                    height: 3px;
+                    background-color:green;
+                    display: block;
+                }
+                .logo1{ 
+                    width: 3.5em;height: 3.5em;
+                }
+                .phone{ 
+                    width: 16px;
+                    height: 16px;
+                }
+                .connect{ 
+                    width: 32px;height: 32px;
+                }
+                .slide li{
+                    display:inline-block;
+                }
+                #banner{
+                    height: 375px;
+                }
+                @media only screen and (max-width:350px){
+                    #banner{
+
+                        height:110px;
+                    }
+                }
+                .first{
+                    position: relative;
+                    top: 20px;
+                }
